@@ -1,0 +1,22 @@
+a) Single-threaded 
+    -Single-threaded refers to an executed process
+of the Central Processing Unit(CPU) which means
+one command at a time.
+
+b) Event Driven Architecture
+    -It is a pattern or framework that describes the
+behaviour of the production, the detection and consumption
+of an event also as well as how it affects the whole software
+or the system.
+
+c) Benefits of a Javascript Module:
+    >It provides structure and helps organize your codes.
+    >It divides the tasks of the system which gives ease for the
+programmer to detect invalid codes of the different functions.
+    >It links two files or you can split your codes into many divisions.
+
+d) 2 Implementations of Javascript Module:
+        1. module.exports
+        2. 
+e) Module Bundler
+    -
